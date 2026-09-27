@@ -8,11 +8,13 @@ Components: main
 Description: Siphonostb's iOS jailbreak repository
 
 MD5Sum:
-b63f62a38c6f2897e661506397bedd63   Packages
-af52a09bf4973c262150a8c5ec01db93   Packages.xz
+b63f62a38c6f2897e661506397bedd63 Packages
+61808dff0be4c1cae494b701773090b4 Packages.xz
+
 SHA1:
-e0811fe332767f71b3bfe0d1645cd869e004e55a   Packages
-ed1d9c8109be891dfd86ebca81ab5c75ab136213   Packages.xz
+e0811fe332767f71b3bfe0d1645cd869e004e55a Packages
+45b80451a8d1ea4ebc63b2c2aff6611162e17a06 Packages.xz
+
 SHA256:
-4655ede79ac6cb6786cd423037948718903472b703eedb725bad79f0a02dc649   Packages
-3a6fad78756c131f98bce36637e9648eb9ffd07ca73ac27431689e73ed48a4cc   Packages.xz
+4655ede79ac6cb6786cd423037948718903472b703eedb725bad79f0a02dc649 Packages
+34c2dadc4d6f7d5fe177de058615898b91c80874846dd9deba0761bfa758484c Packages.xz
