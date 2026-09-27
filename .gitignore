@@ -5,3 +5,6 @@ packages/
 *.dylib
 *.o
 *.dSYM/
+
+!pool/
+!pool/*.deb
