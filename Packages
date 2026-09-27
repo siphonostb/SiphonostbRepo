@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: Siphonostb
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: pool/com.siphonostb.gestures16_0.0.1_iphoneos-arm64.deb
+Filename: ./pool/com.siphonostb.gestures16_0.0.1_iphoneos-arm64.deb
 Size: 2874
 MD5sum: 98b8b942b25998b08d6cc6f5acaaf242
 SHA1: 6e3a503521171fc4acbd7ef9bee8ccf43da16cfd
