@@ -1,8 +1,18 @@
-Origin: Siphonostb
+Origin: Siphonostb Repo
 Label: Siphonostb Repo
 Suite: stable
 Version: 1.0
-Codename: stable
+Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: iOS tweaks by Siphonostb
+Description: Siphonostb's iOS jailbreak repository
+
+MD5Sum:
+03fa10e3080b9ce1d0184cbd4c1764c3   Packages
+08cb30d912dbc37a153df65a1d8706d7   Packages.xz
+SHA1:
+868ac07df5ac8071f00525a700cf2f5221eeef65   Packages
+a85b3813f5da3d00c6a23c53823ea977222adb42   Packages.xz
+SHA256:
+47f52e450e13ebdb5dfb7edd4e160e776c62d2fe61888973678c7bbac1e8cf8f   Packages
+56718a597c5d4c43060460a2104438c54dd3075ff0744612cea753e247c5d84f   Packages.xz
