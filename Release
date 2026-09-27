@@ -7,12 +7,20 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Siphonostb's iOS jailbreak repository
+Date: Sun, 27 Sep 2026 19:29:44 +0000
 MD5Sum:
- 5440cef1d29dc9f1ef75c58f71f6727e Packages
- 636ef4828cc557919b674a212117b63a Packages.xz
+ 5440cef1d29dc9f1ef75c58f71f6727e             1008 Packages
+ 636ef4828cc557919b674a212117b63a              536 Packages.xz
+ 8e0a804ea24d901be32333436cdd7158               38 Release
 SHA1:
- 7fb2b97f721b91b9fd06b2dda2ad4cd676185260 Packages
- d22d8e9bfc847999dddab664338864b2f8842bdf Packages.xz
+ 7fb2b97f721b91b9fd06b2dda2ad4cd676185260             1008 Packages
+ d22d8e9bfc847999dddab664338864b2f8842bdf              536 Packages.xz
+ b9d7c587830db571e6804de89d2f2dec63d63907               38 Release
 SHA256:
- fa668586d348eb96d4af1cc4f52696f3036df6ed4a373f9732fa66714e83fa6f Packages
- e63e12ca43407cd677e25dc40326868ba527b7b3d8d4d3d0404459d915300ea3 Packages.xz
+ fa668586d348eb96d4af1cc4f52696f3036df6ed4a373f9732fa66714e83fa6f             1008 Packages
+ e63e12ca43407cd677e25dc40326868ba527b7b3d8d4d3d0404459d915300ea3              536 Packages.xz
+ a4e584f11dd45373c6768f670a36dab80a113bb9e8452a5c4667d0140ac2fd75               38 Release
+SHA512:
+ 9ad59b61e49fa47bc271a01092038d5de07808f37371c47b06520e4bcfaf2850e62c1e8eaf4615e42c0dc97642bf1fccee52bf4a90f2b4341c396fe399c9d88f             1008 Packages
+ e7b4885c1cfc9ce37740e44224b8b338b215645c1defaeb78b02b82755792163a80e71967655f6c2b1cf4d05bc0a9370492bcf840f4f96cc2873b2a02440efbc              536 Packages.xz
+ 56dec69a32e60a62dbb4ac264ebf69b032bdda07529d3baeb46707d32c908de48ff8b05a54367ee50fd98e52621e95e1156dd9bf829bbaf19ad8a74b0e5d4fef               38 Release
