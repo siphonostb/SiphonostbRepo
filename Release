@@ -7,20 +7,20 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Siphonostb's iOS jailbreak repository
-Date: Mon, 28 Sep 2026 12:05:35 +0000
+Date: Mon, 28 Sep 2026 13:50:05 +0000
 MD5Sum:
- 31b837eb0f34b5980ad33fca3bc11ed8             2016 Packages
- 6d801fe112afb586f1557a48a7895cbc              712 Packages.xz
- 1488d3ccaf65c979cb63f64124feb960               38 Release
+ 03811d3caefb8fd39da852704e1efa3f             1519 Packages
+ 3acb662cc52bf0148a40f305519fb860              624 Packages.xz
+ 2a27c94840a2cb0783a5cc412fe3ba6b               38 Release
 SHA1:
- 7004db88717c08f21780cbc729f0c57b4739e7af             2016 Packages
- cb0d5d30979b4aa6061306aa4a9d4ad0565aa2b5              712 Packages.xz
- a52b7fb0d18a586d2d002b2d99e60383af0f1a37               38 Release
+ 17ba9e9ec08d47b04ee199cdf73c5766a0dce050             1519 Packages
+ af6e2c3f9871269ac0faeae9bfa67d82a50a972f              624 Packages.xz
+ b77f45c6e74121ae7be97793d9440c24acbfdd9b               38 Release
 SHA256:
- 266264be62d84c926b19bcbf10c61959c694ca61a3fc19dbdb70469626aea888             2016 Packages
- 89aa07cd5970712968d801fe6c99bcf38f797b918236e7d34ef6e0100dfa7b1f              712 Packages.xz
- 11b6a5a8561c9e70b877e78a5d215f082555d7f2d2662ada73b8ff6ecbe5c66e               38 Release
+ 9388637c535ec7ae0e1c3e3f78933c0471ad26438a8258d8f583a5f77f030854             1519 Packages
+ 1d23c35378c9f0dedfb2a0ef1d0a196b6cc64872f03c5d0f841921a6540a618d              624 Packages.xz
+ 63b8beb32528d31ea5da0b2626a0fcda9da4eaf2023642486484c4434aeab866               38 Release
 SHA512:
- 803b124203262d6837ae4033e98ed93a6296c79508059d3e898c84695acd9ec90c4ac5cbaed7c16fe1deab361aac2f9b6084fa4390a5913767b59b055ad69ace             2016 Packages
- 0593401bdcf55de3927371fd2d0f9a552cae583dc3c9905e4b8527d6b1fb1a965d1af55fb6f33c55aa41a8d40160e34e675ba85206ca94bcd8b1994ac269ae06              712 Packages.xz
- bb431f975fb7047eb1d098c070c9af005b68ae8751728e9bf77855a3a440afc64c7636687b06200d63a14c98ef7bfe8165559287f0a37621dc7409b14338ae53               38 Release
+ e928d6e735eb7cdb0586de17622c9f74e211a2c3c9658449f70626f627a001d6cb008eed5e1445d7b28ce24de4475e35d6893f83147608de3ca2d4526e40f6e6             1519 Packages
+ a5c03f90fcbe62bf09a9db6df561fadd8fcc2e33978933f8b8cf5fc28ce0b7127be40149f91935212e419e7cd4ef5035fe619e5894f9efb1823dafb894f0833f              624 Packages.xz
+ 9b5e50b358ad3876d03fe1ca309fbe96614f565f9930c7161d240173fe3ee8f2977138aade3246029bd31da039fd5cb306926e8a0a99e0212062c76fb82609ad               38 Release
