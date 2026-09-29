@@ -174,6 +174,22 @@ Description: Gesture navigation for iOS 16.
 Author: Siphonostb
 Name: Gestures16
 
+Package: com.siphonostb.gestures16
+Version: 0.1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Siphonostb
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: pool/com.siphonostb.gestures16_0.1.0-1+debug_iphoneos-arm64.deb
+Size: 3642
+MD5sum: e1dea0ac067f504a25455eeffe29838a
+SHA1: 7e62956a79332c810b5f1ade249c22a5f60bb55f
+SHA256: c0b5ca739889ca5717c9faf8d558125aecf6d6eb3f1726267f9df46577653646
+Section: Tweaks
+Description: Gesture navigation for iOS 16.
+Author: Siphonostb
+Name: Gestures16
+
 Package: com.siphonostb.gestures16diagnostics
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
