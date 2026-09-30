@@ -334,3 +334,19 @@ Description: Runtime diagnostics for Gestures16 development.
 Author: Siphonostb
 Name: Gestures16 Diagnostics
 
+Package: com.siphonostb.gestures16diagnostics
+Version: 0.0.3-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Siphonostb
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: pool/com.siphonostb.gestures16diagnostics_0.0.3-1+debug_iphoneos-arm64.deb
+Size: 7032
+MD5sum: d06c78c380e148f52c91f404f7a3c6cf
+SHA1: 9a5295ecf8bca71f10cd78621466712295b6dce9
+SHA256: dbf58a5f64a1311c9b5c63ea429d3b798116ea17c7219f0f95257631aff6bc0f
+Section: Tweaks
+Description: Runtime diagnostics for Gestures16 development.
+Author: Siphonostb
+Name: Gestures16 Diagnostics
+
